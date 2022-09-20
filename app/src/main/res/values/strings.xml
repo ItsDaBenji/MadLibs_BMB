@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">MadLibs_BMB</string>
 
+    <string name="BMB_Button">See Full Story</string>
+
     <string name="BMB_hint_1">SITC Student</string>
     <string name="BMB_hint_2">Anime Character</string>
     <string name="BMB_hint_3">Adverb</string>

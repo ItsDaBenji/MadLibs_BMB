@@ -33,6 +33,16 @@ public class MainActivity extends AppCompatActivity {
         editTexts[9] = findViewById(R.id.UserInput10);
         editTexts[10] = findViewById(R.id.UserInput11);
         editTexts[11] = findViewById(R.id.UserInput12);
+
+        for(int i = 0; i < editTexts.length; i++)
+        {
+            if(editTexts[i].getText().toString().equals(""))
+            {
+                editTexts[i].setError("Please Fill Out All of the Fields");
+                return;
+            }
+        }
+
         String[] messages = new String[12];
         for(int i = 0; i < messages.length; i++)
         {

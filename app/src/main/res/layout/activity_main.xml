@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/BMB_background_color"
     tools:context=".MainActivity">
 
     <ScrollView
@@ -12,6 +13,7 @@
         android:layout_height="0dp"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="256dp"
+        android:background="@color/BMB_lighter_background_color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -208,10 +210,8 @@
         android:id="@+id/button"
         android:layout_width="170dp"
         android:layout_height="62dp"
-        android:layout_marginTop="24dp"
-        android:layout_marginBottom="24dp"
         android:onClick="goToStory"
-        android:text="Button"
+        android:text="@string/BMB_Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
