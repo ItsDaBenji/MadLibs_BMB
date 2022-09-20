@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MadLibs_BMB</string>
+
+    <string name="BMB_hint_1">SITC Student</string>
+    <string name="BMB_hint_2">Anime Character</string>
+    <string name="BMB_hint_3">Adverb</string>
+    <string name="BMB_hint_4">Past Tense Verb</string>
+    <string name="BMB_hint_5">Item</string>
+    <string name="BMB_hint_6">Greeting</string>
+    <string name="BMB_hint_7">Adjective</string>
+    <string name="BMB_hint_8">SITC Professor</string>
+    <string name="BMB_hint_9">Another Anime Character</string>
+    <string name="BMB_hint_10">Anime Series</string>
+    <string name="BMB_hint_11">CS Professor</string>
+    <string name="BMB_hint_12">Third Anime Character</string>
+
+
+    <string name="BMB_story_segment_1">One day,</string>
+    <!--    SITC Student-->
+    <string name="BMB_story_segment_2">was walking through the halls of COBA cosplaying as</string>
+    <!--    Anime character-->
+    <string name="BMB_story_segment_3">when they encountered Dr. Homer.</string>
+    <string name="BMB_story_segment_4">He looked at the student</string>
+    <!--    adverb-->
+    <string name="BMB_story_segment_5">while he</string>
+    <!--    past tense verb-->
+    <string name="BMB_story_segment_6">his</string>
+    <!--    item-->
+    <string name="BMB_story_segment_7">Unfortunately, the student approached Dr. Homer. \"</string>
+    <!--    greeting-->
+    <string name="BMB_story_segment_8">Dr. Homer\". Dr. Homer was very</string>
+    <!--    adjective-->
+    <string name="BMB_story_segment_9">. He returned the greeting and kept walking.</string>
+    <string name="BMB_story_segment_10">Dr. Homer then ran into</string>
+    <!--    SITC professor-->
+    <string name="BMB_story_segment_11">who was cosplaying as</string>
+    <!--    another anime character-->
+    <string name="BMB_story_segment_12">. Dr. Homer then looked around and saw a bunch of students.</string>
+    <string name="BMB_story_segment_13">They were all cosplaying as characters from</string>
+    <!--    anime series-->
+    <string name="BMB_story_segment_14">. He heard the familiar voice of</string>
+    <!--    CS Professor-->
+    <string name="BMB_story_segment_15">and went to ask them what was going on.</string>
+    <string name="BMB_story_segment_16">He found them cosplaying as</string>
+    <!--    third anime character-->
+    <string name="BMB_story_segment_17">before he finally woke up from his nightmare</string>
+
+
+</resources>
